@@ -5,7 +5,7 @@
 - :triangular_ruler: I'm really passionate about designing and  building user interfaces that are useful and make people happy
 - :books: I’m currently learning React 
 - :star: I am always looking for ways to improve my work and myself as a person
-- :dog: When I am not coding I'am playing with my little buddy Mila 
+- :dog: When I am not coding I'm playing with my little buddy Mila 
 
 ## Tech Stack :art:
 <div>
