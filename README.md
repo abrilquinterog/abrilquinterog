@@ -1,19 +1,18 @@
-# Hi! I'm April :raising_hand:
+# Hi! I'm Abril :raising_hand:
 
  I am a front-end developer trainee with an architectural design background currently studying at Laboratoria. :sparkles:
 
 - :triangular_ruler: I'm really passionate about designing and  building user interfaces that are useful and make people happy
 - :books: I’m currently learning React 
-- :star: I am always looking for ways to improve my work and myself as a person
-- :dog: When I am not coding I'm playing with my little buddy Mila 
+- :star: I'm always looking for ways to improve my work and myself as a person
+- :dog: When I'm not coding I'm playing with my little buddy Mila 
 
 ## Tech Stack :art:
 <div>
    <img alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="60" height="60">
+   <img alt="react" src="https://user-images.githubusercontent.com/97549436/167679224-3ea56ec4-ec39-443c-b868-60fc626e2779.png" width="65" height="60"> 
   <img alt="html 5" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" width="60" height="60">
    <img alt="css" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" width="60" height="60">
-   <img alt="git" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" width="60" height="60">
-   <img alt="react" src="https://user-images.githubusercontent.com/97549436/167679224-3ea56ec4-ec39-443c-b868-60fc626e2779.png" width="65" height="60"> 
  </div>
  
 
