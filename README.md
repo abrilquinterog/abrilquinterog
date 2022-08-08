@@ -1,11 +1,11 @@
-# Hi! I'm Abril :raising_hand:
+# Hi! I'm Abril 🧙🏻‍♀️:sparkles:
 
- I am a front-end developer trainee with an architectural design background currently studying at Laboratoria. :sparkles:
+ I am a junior front-end developer with an architectural design background graduated from Laboratoria 💛
 
-- :triangular_ruler: I'm really passionate about designing and  building user interfaces that are useful and make people happy
-- :books: I’m currently learning React 
-- :star: I'm always looking for ways to improve my work and myself as a person
-- :dog: When I'm not coding I'm playing with my little buddy Mila 
+- 🎨 I'm really passionate about designing and building user interfaces that are useful and make people happy
+- 👩🏻‍💻 I’m currently learning SASS 
+- 🏅 I'm always looking for ways to improve my work and myself as a person
+- 🐶 When I'm not coding I'm playing with my little buddy Mila 
 
 ## Tech Stack :art:
 <div>
