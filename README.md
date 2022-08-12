@@ -15,6 +15,8 @@
    <img alt="css" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="55" height="60">
    <img alt="figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png" width="40" height="60">
    <img alt="boostrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/964px-Bootstrap_logo.svg.png" width="70" height="60">
+   <img alt="sass" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width="60" height="60">
+   
  </div>
  
 
