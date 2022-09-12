@@ -3,9 +3,10 @@
  I am a junior front-end developer with an architectural design background graduated from Laboratoria 💛
 
 - 🎨 I'm really passionate about designing and building user interfaces that are useful and make people happy
-- 👩🏻‍💻 I’m currently learning SASS 
+- 👩🏻‍💻 I’m currently learning SASS and UX/UI basics 
 - 🏅 I'm always looking for ways to improve my work and myself as a person
 - 🐶 When I'm not coding I'm playing with my little buddy Mila 
+- 🌍 Accesibility advocate, let's make the world a better place for everyone 
 
 ## Tech Stack :art:
 <div>
